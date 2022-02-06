@@ -4,4 +4,6 @@
 .wrapper < div < p {
   font-family: arial;
   color: blue;
+  text-align: justify;
+  font-size: 1000px;
 }
