@@ -1,0 +1,7 @@
+.wrapper {
+  display: grid;
+}
+.wrapper < div < p {
+  font-family: arial;
+  color: blue;
+}
