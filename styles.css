@@ -1,5 +1,5 @@
 
-.wrapper < div < p {
+p {
   font-family: arial;
   color: blue;
   text-align: justify;
