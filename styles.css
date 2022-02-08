@@ -1,6 +1,9 @@
 .wrapper {
   display: grid;
 }
+.wrapper < div {
+
+}
 .wrapper < div < p {
   font-family: arial;
   color: blue;
