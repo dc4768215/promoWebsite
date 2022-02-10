@@ -1,7 +1,9 @@
-
-p {
+ p {
   font-family: arial;
   color: blue;
   text-align: justify;
   font-size: 100px;
+}
+body {
+  background-color: blue;
 }
